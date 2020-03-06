@@ -1,0 +1,1 @@
+export const SET_GLOBALDATA = 'SET_GLOBALDATA'
